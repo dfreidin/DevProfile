@@ -321,7 +321,7 @@ nav select {
 
 
 section#intro {
-	background: #000 url(../img/bg/bg-1.jpg) 50% 0 no-repeat;
+	background: #000 url(../img/bg/abstract-background-canvas.jpg) 50% 0 no-repeat;
 	position:relative;
 	width:100%;
 	height:auto;
@@ -745,7 +745,7 @@ ul.the-icons {
 
 /* ================= services ============================ */
 section#skills {
-	background: #000 url(../img/bg/bg-1.jpg) 50% 0 repeat-y;
+	background: #000 url(../img/bg/abstract-background-canvas.jpg) 50% 0 repeat-y;
 	width:100%;
 	height:auto;
 	margin:0;
