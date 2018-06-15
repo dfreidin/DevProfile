@@ -2,6 +2,8 @@
 jQuery(document).ready(function($) {
   "use strict";
 
+  $('#game_knight_video').collapse("hide");
+
   //add some elements with animate effect
   $('.icon').addClass("animated fadeInDown");
   $("#intro").hover(
